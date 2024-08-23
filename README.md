@@ -14,6 +14,7 @@
 
 ### Mateus Braga
 
-### Linkedin: https://github.com/bragateus
+### Github: https://github.com/bragateus
+### Linkedin: https://www.linkedin.com/in/mateus-braga-lima
 
 ```
