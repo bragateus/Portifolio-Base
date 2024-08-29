@@ -17,7 +17,7 @@
 	--cor-principal: #181A1B;
 	--cor-secundaria: #F6F6F6;
 	--cor-terciaria: #22D4FD;
-	--cor-hover: #303436;
+	--cor-hover: #232525;
 	--fonte1: 'Montserrat', sans-serif;
 	--fonte2: 'Krona One', sans-serif;
 }
@@ -157,7 +157,7 @@ body{
 }
 
 
-.apresentacao__links__link:hover{
+.apresentacao__links__navegacao:hover{
 	background-color: var(--cor-hover);
 	
 }
