@@ -37,6 +37,8 @@ body{
     box-sizing: border-box;
     background-color: var(--cor-principal);
     color: var(--cor-secundaria);
+	height:100vh;
+	font-family: var(--fonte1);
 	
 }
 
@@ -81,6 +83,7 @@ body{
     display: flex;
     flex-direction: column;
     gap: 40px;
+	padding-bottom: 2.5rem;
 	
 }
 
@@ -169,6 +172,10 @@ body{
 	padding: 24px;
 	color: black;
 	text-align: center;
+	position: relative;
+	bottom: 0;
+	height: 2.5rem;
+	align-content: center;
 }
 
 .infos-top{
@@ -194,6 +201,27 @@ body{
 	margin-top: 40px;
 	border-bottom: 2px solid var(--cor-hover);
 	display: inline-block;
+}
+
+.trabalhos{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+
+}
+
+.behance{
+	justify-content: center;
+}
+
+.trabalhos__links-titulo{
+	font-size: 24px;
+	font-family: var(--fonte1);
+	padding: 2em;
+}
+.trabalhos__links-canva{
+	width: 35%;
+	
 }
 
 @media (max-width: 900px) {
